@@ -1,0 +1,22 @@
+ul li{
+    display: inline-block;
+}
+ul{
+    background-color: rgb(209, 195, 177);
+
+}
+li{
+    padding: 10px;
+}
+
+
+main{
+    background-color: blanchedalmond;
+}
+body{
+    background-color: beige;
+}
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

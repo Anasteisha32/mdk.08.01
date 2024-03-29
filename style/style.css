@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(153, 181, 171);
+}
+h2{
+    font-size: 20px;
+}
+h1{
+    font-size: 24px;
+}
+h3{
+    font-size: 18px;
+}
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+.prew {
+    background: url("../img/979.jpg");
+    width: 500px;
+    height: 300px;
+    background-size: cover;
+}
+.new1 {
+    background: url("../img/scale_1200.jpg");
+    background-size: cover;
+
+}
+.new2{
+    background: url("../img/oa918zc2eaqt8ko9c3wuvjlgl6b4adg2.jpg");
+    background-size: cover;
+}
+.ykyl{
+    background: url("../img/ukulele_caraya_uk_13_1464030492_1.jpg");
+    background-size: cover;
+}
+.gonch{
+    
+    background: url("../img/photoeditorsdk-export_-_2021-07-20T125636.974_watermarked.jpeg");
+    background-size: cover;
+
+}
+.gonch2{
+    background: url("../img/1682335271_kartinki-pibig-info-p-goncharnoe-remeslo-kartinki-arti-pinterest-67.jpg");
+    background-size: cover;
+}
+.kyrs{
+    background: url("../img/5ec56999c287d75bdeaf19da_sertificate_3.jpg");
+    background-size: cover;
+}
+.ya{
+    background: url("../img/wxYikDGGwLw.jpg");
+    background-size: cover;
+}
+ul li{
+    display: inline-block;
+}
+ul{
+    background-color: rgb(209, 195, 177);
+
+}
+li{
+    padding: 10px;
+}
+.content{
+    display: flex;
+}
+main{
+    width: 70%;
+}
+
+.cnt{
+    display: flex;
+}
+aside{
+    width: 35%;
+}
